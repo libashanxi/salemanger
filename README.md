@@ -1,2 +1,3 @@
 # hello-world
-first test，welcome
+hello humans
+welcome libashanxi GitHub，this is first test，thanks
